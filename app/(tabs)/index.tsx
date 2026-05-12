@@ -1,3 +1,11 @@
+/*
+ * @Author: Warren
+ * @Date: 2026-05-11 09:09:29
+ * @LastEditors: Warren
+ * @LastEditTime: 2026-05-12 09:45:07
+ * @FilePath: /react-native/app/(tabs)/index.tsx
+ * @Description: 请填写文件说明
+ */
 import { Image } from 'expo-image';
 import { Platform, StyleSheet } from 'react-native';
 
@@ -18,7 +26,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
+        <ThemedText type="title">Welcome! Warren</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
