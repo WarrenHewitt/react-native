@@ -9,7 +9,9 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "login": "eas login"
+    "eas-login": "eas login",
+    "eas-config": "eas build:configure",
+    "eas-preview": "eas build -p android --profile preview"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
@@ -40,7 +42,7 @@
   },
   "devDependencies": {
     "@types/react": "~19.2.10",
-    "eas-cli": "^18.11.0",
+    "eas-cli": "18.11.0",
     "eslint": "^9.25.0",
     "eslint-config-expo": "~55.0.0",
     "typescript": "~5.9.2"
