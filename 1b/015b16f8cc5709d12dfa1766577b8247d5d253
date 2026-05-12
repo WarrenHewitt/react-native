@@ -1,0 +1,16 @@
+eas.json
+  h_ac572f9e14d2d0 1-27
+package.json
+  h_ac572f9e14d2d0 12-14,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "1b015b16f8cc5709d12dfa1766577b8247d5d253",
+  "prompts": {},
+  "humans": {
+    "h_ac572f9e14d2d0": {
+      "author": "warren <warrenemb@163.com>"
+    }
+  }
+}
