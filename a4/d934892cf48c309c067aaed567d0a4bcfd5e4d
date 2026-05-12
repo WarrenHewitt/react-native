@@ -1,0 +1,33 @@
+app/(tabs)/index.tsx
+  h_ac572f9e14d2d0 1-8,29
+.github/instructions/rn-conventions.instructions.md
+  h_ac572f9e14d2d0 1-62
+.github/skills/init-page/assets/page-template.tsx
+  s_b4f2f3a2fb3b9a::t_d734526e52d463 1-54
+.github/skills/init-page/SKILL.md
+  s_b4f2f3a2fb3b9a::t_30c9055d3c8e84 1-2,5-6,8,10,16,18-20,24,26,28,33,35,40,42,44,46-54,56,58-61,63-66,68,72,74
+  s_b4f2f3a2fb3b9a::t_758291d9c220fa 3-4,7,9,11-15,17,21-23,25,27,29-32,34,36-39,41,43,45,55,57,62,67,69-71,73,75-80
+package.json
+  h_ac572f9e14d2d0 11-12,43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "a4d934892cf48c309c067aaed567d0a4bcfd5e4d",
+  "prompts": {},
+  "humans": {
+    "h_ac572f9e14d2d0": {
+      "author": "warren <warrenemb@163.com>"
+    }
+  },
+  "sessions": {
+    "s_b4f2f3a2fb3b9a": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "07bfa77d-f266-413c-99c9-06b0f7cfd908",
+        "model": "unknown"
+      },
+      "human_author": "warren <warrenemb@163.com>"
+    }
+  }
+}
